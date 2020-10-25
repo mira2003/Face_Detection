@@ -1,5 +1,3 @@
-#A simple face detection algorithm in python using openCV
-
 import cv2
 
 faces_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
